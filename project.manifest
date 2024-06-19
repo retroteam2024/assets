@@ -4,7 +4,7 @@
 	"remoteVersionUrl" : "https://raw.githubusercontent.com/retroteam2024/assets/v1.0.0/version.manifest",
 	"remoteDownloadUrl" : "https://raw.githubusercontent.com/retroteam2024/assets/v1.0.0/download.manifest",
 	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/retroteam2024/assets/v1.0.0/",
-	"version" : "2",
+	"version" : "3",
 	"engineVersion" : "1.0.0",
 	"assets" : {
 		"config.json": {
@@ -5795,7 +5795,7 @@
 			"md5": "43b5b0010720fa1b9a77dd1dddf08540"
 		},
 		"src/NES/Game/GameLayerN64.js": {
-			"md5": "88da325395c9b084edbf01696801fdb9"
+			"md5": "5ff5dfa8b5f3eca4225591f3f9b3c969"
 		},
 		"src/NES/Game/GameLayerSNK.js": {
 			"md5": "ce6a8f457180184d3c58a4b23c6a69a4"
